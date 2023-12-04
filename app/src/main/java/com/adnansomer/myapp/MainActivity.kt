@@ -15,7 +15,4 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    fun myfunction() {
-
-    }
 }

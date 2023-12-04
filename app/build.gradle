@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.loc.newsapp'
+    namespace 'com.adnansomer.myapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.loc.newsapp"
+        applicationId "com.adnansomer.myapp"
         minSdk 24
         targetSdk 33
         versionCode 1
