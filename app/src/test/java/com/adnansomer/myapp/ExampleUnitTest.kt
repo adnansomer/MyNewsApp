@@ -1,4 +1,4 @@
-package com.loc.newsapp
+package com.adnansomer.myapp
 
 import org.junit.Test
 
